@@ -263,6 +263,13 @@
       <artifactId>webmagic-extension</artifactId>
       <version>0.6.1</version>
     </dependency>
+
+    <!-- 处理excel 的 jar -->
+    <dependency>
+      <groupId>org.apache.poi</groupId>
+      <artifactId>poi</artifactId>
+      <version>4.0.1</version>
+    </dependency>
   </dependencies>
 
   <build>
