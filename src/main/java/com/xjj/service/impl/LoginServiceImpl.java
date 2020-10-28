@@ -15,6 +15,7 @@ public class LoginServiceImpl implements LoginService {
     @Override
     public Student getStudentByID(String id) {
 
+        String s1 = "";
         return null;
     }
 }
