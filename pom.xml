@@ -270,6 +270,14 @@
       <artifactId>poi</artifactId>
       <version>4.0.1</version>
     </dependency>
+
+    <!-- spring time task -->
+    <dependency>
+      <groupId>org.quartz-scheduler</groupId>
+      <artifactId>quartz</artifactId>
+      <version>2.2.1</version>
+    </dependency>
+
   </dependencies>
 
   <build>
